@@ -79,3 +79,12 @@
 .scanner-toggle:hover {
     background-color: #1a3cc2;
 }
+
+.uni-logo {
+    margin-top: 1rem;
+    width: 150px; /* Adjust size as needed */
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
